@@ -112,7 +112,6 @@ if __name__ == '__main__':
 		else:
 			day = str(currentDate.day)
 
-		
 		today = str(month) + "-" + str(day) + "-" + str(currentDate.year - 2000)
 				
 		print ""
