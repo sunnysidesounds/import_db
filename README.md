@@ -1,4 +1,2 @@
-import_db
-=========
-
-Import sql files into database script. 
+## DATABASE IMPORT SCRIPT
+This was used to import sql files in each day using a crontab. 
